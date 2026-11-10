@@ -1,0 +1,151 @@
+Application_ID,Candidate_ID,Education,Discipline,Role,Source,Short_listed,Assessment,Interview,Selection,Offer,Joining
+APP1,C1,Postgraduate,Mathematics,Data Analyst Intern,LinkedIn,Yes,Pending,Pending,Pending,Pending,Pending
+APP2,C2,Graduate,Statistics,Data Science Intern,LinkedIn,Yes,Completed,Selected,Pending,Pending,Pending
+APP3,C3,Postgraduate,Data Science,Python Intern,Indeed,Yes,Completed,Selected,Selected,Selected,Pending
+APP4,C4,Graduate,Data Science,Python Intern,Naukri,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP5,C5,Postgraduate,Data Science,Python Intern,Instagram,Yes,Completed,Selected,Selected,Selected,Pending
+APP6,C6,Postgraduate,Computer Applications,Data Science Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP7,C7,Postgraduate,Mathematics,Data Analyst Intern,Instagram,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP8,C8,Postgraduate,Mathematics,Python Intern,Naukri,Yes,Completed,Selected,Pending,Pending,Pending
+APP9,C9,Graduate,Computer Science,Data Science Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP10,C10,Graduate,Data Science,Data Science Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP11,C11,Graduate,Computer Science,Data Science Intern,Indeed,Yes,Completed,Pending,Pending,Pending,Pending
+APP12,C12,Graduate,Data Science,Data Analyst Intern,Website,Yes,Completed,Selected,Selected,Selected,Pending
+APP13,C13,Graduate,Data Science,Python Intern,Indeed,Yes,Completed,Selected,Selected,Selected,Joined
+APP14,C14,Graduate,Computer Applications,Data Analyst Intern,Indeed,Yes,Completed,Selected,Pending,Pending,Pending
+APP15,C15,Postgraduate,Data Science,Python Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP16,C16,Postgraduate,Computer Applications,Data Science Intern,Naukri,Yes,Pending,Pending,Pending,Pending,Pending
+APP17,C17,Postgraduate,Statistics,Data Analyst Intern,Instagram,Yes,Pending,Pending,Pending,Pending,Pending
+APP18,C18,Postgraduate,Data Science,Power BI Intern,Naukri,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP19,C19,Postgraduate,Mathematics,Python Intern,Indeed,Yes,Completed,Pending,Pending,Pending,Pending
+APP20,C20,Graduate,Statistics,Python Intern,Instagram,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP21,C21,Graduate,Mathematics,Python Intern,LinkedIn,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP22,C22,Postgraduate,Computer Science,Python Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP23,C23,Postgraduate,Mathematics,Data Analyst Intern,Naukri,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP24,C24,Graduate,Mathematics,Data Science Intern,Referral,Yes,Completed,Selected,Selected,Selected,Pending
+APP25,C25,Postgraduate,Mathematics,Data Analyst Intern,LinkedIn,Yes,Completed,Selected,Selected,Pending,Pending
+APP26,C26,Graduate,Data Science,Data Analyst Intern,Instagram,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP27,C27,Graduate,Data Science,Python Intern,Referral,Yes,Pending,Pending,Pending,Pending,Pending
+APP28,C28,Postgraduate,Mathematics,Python Intern,Naukri,Yes,Completed,Selected,Pending,Pending,Pending
+APP29,C29,Graduate,Data Science,Power BI Intern,Indeed,Yes,Completed,Selected,Pending,Pending,Pending
+APP30,C30,Postgraduate,Mathematics,Python Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP31,C31,Postgraduate,Mathematics,Data Science Intern,Instagram,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP32,C32,Graduate,Computer Applications,Python Intern,Indeed,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP33,C33,Graduate,Mathematics,Power BI Intern,LinkedIn,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP34,C34,Graduate,Data Science,Data Science Intern,Indeed,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP35,C35,Postgraduate,Statistics,Data Analyst Intern,Instagram,Yes,Completed,Selected,Selected,Selected,Joined
+APP36,C36,Graduate,Mathematics,Data Analyst Intern,Referral,Yes,Completed,Pending,Pending,Pending,Pending
+APP37,C37,Postgraduate,Mathematics,Data Science Intern,Naukri,Yes,Completed,Pending,Pending,Pending,Pending
+APP38,C38,Graduate,Mathematics,Data Science Intern,Instagram,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP39,C39,Postgraduate,Computer Science,Data Science Intern,LinkedIn,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP40,C40,Postgraduate,Computer Science,Data Analyst Intern,Website,Yes,Completed,Selected,Selected,Selected,Joined
+APP41,C41,Postgraduate,Statistics,Python Intern,Indeed,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP42,C42,Postgraduate,Statistics,Python Intern,Indeed,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP43,C43,Graduate,Computer Applications,Data Science Intern,Naukri,Yes,Completed,Selected,Selected,Selected,Pending
+APP44,C44,Graduate,Computer Applications,Python Intern,Naukri,Yes,Completed,Selected,Selected,Selected,Joined
+APP45,C45,Postgraduate,Computer Science,Python Intern,Website,Yes,Completed,Selected,Selected,Selected,Pending
+APP46,C46,Postgraduate,Statistics,Data Analyst Intern,Referral,Yes,Pending,Pending,Pending,Pending,Pending
+APP47,C47,Postgraduate,Computer Science,Power BI Intern,LinkedIn,Yes,Completed,Pending,Pending,Pending,Pending
+APP48,C48,Graduate,Computer Applications,Data Analyst Intern,Instagram,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP49,C49,Postgraduate,Computer Science,Python Intern,Referral,Yes,Completed,Selected,Pending,Pending,Pending
+APP50,C50,Graduate,Computer Science,Power BI Intern,LinkedIn,Yes,Completed,Selected,Selected,Selected,Joined
+APP51,C51,Postgraduate,Data Science,Data Science Intern,LinkedIn,Yes,Completed,Selected,Selected,Selected,Joined
+APP52,C52,Postgraduate,Statistics,Data Science Intern,Indeed,Yes,Completed,Selected,Selected,Selected,Joined
+APP53,C53,Graduate,Computer Applications,Data Analyst Intern,Instagram,Yes,Completed,Selected,Selected,Selected,Joined
+APP54,C54,Graduate,Statistics,Power BI Intern,Naukri,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP55,C55,Graduate,Statistics,Power BI Intern,Naukri,Yes,Pending,Pending,Pending,Pending,Pending
+APP56,C56,Postgraduate,Computer Applications,Data Analyst Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP57,C57,Graduate,Mathematics,Data Analyst Intern,LinkedIn,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP58,C58,Graduate,Computer Applications,Power BI Intern,Indeed,Yes,Completed,Selected,Selected,Selected,Joined
+APP59,C59,Graduate,Computer Applications,Data Science Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP60,C60,Postgraduate,Computer Science,Data Analyst Intern,Indeed,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP61,C61,Postgraduate,Computer Science,Data Analyst Intern,Indeed,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP62,C62,Graduate,Computer Applications,Data Analyst Intern,LinkedIn,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP63,C63,Graduate,Statistics,Power BI Intern,Naukri,Yes,Completed,Pending,Pending,Pending,Pending
+APP64,C64,Graduate,Data Science,Power BI Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP65,C65,Graduate,Computer Science,Data Science Intern,Website,Yes,Pending,Pending,Pending,Pending,Pending
+APP66,C66,Postgraduate,Computer Applications,Data Analyst Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP67,C67,Postgraduate,Mathematics,Power BI Intern,Referral,Yes,Completed,Selected,Selected,Selected,Joined
+APP68,C68,Graduate,Computer Applications,Data Science Intern,Instagram,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP69,C69,Postgraduate,Computer Science,Data Analyst Intern,Instagram,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP70,C70,Graduate,Statistics,Data Science Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP71,C71,Postgraduate,Computer Science,Power BI Intern,Website,Yes,Pending,Pending,Pending,Pending,Pending
+APP72,C72,Postgraduate,Statistics,Python Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP73,C73,Graduate,Data Science,Power BI Intern,LinkedIn,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP74,C74,Graduate,Statistics,Data Analyst Intern,Referral,Yes,Completed,Selected,Selected,Selected,Joined
+APP75,C75,Postgraduate,Mathematics,Power BI Intern,Instagram,Yes,Completed,Selected,Selected,Selected,Joined
+APP76,C76,Postgraduate,Computer Applications,Python Intern,Referral,Yes,Completed,Selected,Selected,Selected,Joined
+APP77,C77,Graduate,Data Science,Power BI Intern,Referral,Yes,Completed,Selected,Pending,Pending,Pending
+APP78,C78,Postgraduate,Computer Applications,Data Analyst Intern,Instagram,Yes,Pending,Pending,Pending,Pending,Pending
+APP79,C79,Graduate,Computer Science,Python Intern,Naukri,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP80,C80,Graduate,Statistics,Power BI Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP81,C81,Postgraduate,Data Science,Data Analyst Intern,LinkedIn,Yes,Completed,Selected,Selected,Selected,Pending
+APP82,C82,Postgraduate,Data Science,Power BI Intern,Instagram,Yes,Completed,Selected,Selected,Selected,Pending
+APP83,C83,Postgraduate,Computer Applications,Power BI Intern,Instagram,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP84,C84,Postgraduate,Data Science,Power BI Intern,Website,Yes,Pending,Pending,Pending,Pending,Pending
+APP85,C85,Graduate,Computer Science,Python Intern,Referral,Yes,Pending,Pending,Pending,Pending,Pending
+APP86,C86,Postgraduate,Statistics,Power BI Intern,LinkedIn,Yes,Completed,Selected,Selected,Selected,Joined
+APP87,C87,Graduate,Mathematics,Data Analyst Intern,Instagram,Yes,Completed,Selected,Selected,Pending,Pending
+APP88,C88,Postgraduate,Computer Science,Power BI Intern,Naukri,Yes,Pending,Pending,Pending,Pending,Pending
+APP89,C89,Postgraduate,Data Science,Power BI Intern,Instagram,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP90,C90,Graduate,Mathematics,Data Analyst Intern,Referral,Yes,Completed,Selected,Pending,Pending,Pending
+APP91,C91,Postgraduate,Computer Science,Data Analyst Intern,LinkedIn,Yes,Completed,Selected,Selected,Selected,Pending
+APP92,C92,Graduate,Mathematics,Data Science Intern,Referral,Yes,Completed,Selected,Selected,Selected,Joined
+APP93,C93,Postgraduate,Statistics,Data Science Intern,Instagram,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP94,C94,Postgraduate,Statistics,Python Intern,LinkedIn,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP95,C95,Postgraduate,Statistics,Data Analyst Intern,Website,Yes,Completed,Pending,Pending,Pending,Pending
+APP96,C96,Postgraduate,Data Science,Data Science Intern,Referral,Yes,Completed,Selected,Selected,Pending,Pending
+APP97,C97,Graduate,Mathematics,Power BI Intern,Naukri,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP98,C98,Graduate,Mathematics,Data Analyst Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP99,C99,Postgraduate,Computer Applications,Python Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP100,C100,Postgraduate,Statistics,Python Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP101,C101,Graduate,Data Science,Python Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP102,C102,Graduate,Computer Applications,Power BI Intern,LinkedIn,Yes,Completed,Selected,Pending,Pending,Pending
+APP103,C103,Postgraduate,Computer Science,Data Science Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP104,C104,Postgraduate,Statistics,Data Science Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP105,C105,Postgraduate,Statistics,Data Analyst Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP106,C106,Postgraduate,Statistics,Python Intern,LinkedIn,Yes,Completed,Selected,Pending,Pending,Pending
+APP107,C107,Postgraduate,Computer Applications,Power BI Intern,Naukri,Yes,Completed,Pending,Pending,Pending,Pending
+APP108,C108,Graduate,Computer Science,Power BI Intern,Website,Yes,Completed,Selected,Selected,Selected,Pending
+APP109,C109,Graduate,Computer Science,Data Analyst Intern,Website,Yes,Completed,Selected,Selected,Selected,Pending
+APP110,C110,Graduate,Statistics,Data Science Intern,LinkedIn,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP111,C111,Postgraduate,Mathematics,Data Analyst Intern,Naukri,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP112,C112,Graduate,Computer Science,Python Intern,Indeed,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP113,C113,Postgraduate,Computer Applications,Data Analyst Intern,Website,Yes,Completed,Selected,Selected,Selected,Pending
+APP114,C114,Graduate,Data Science,Power BI Intern,Instagram,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP115,C115,Postgraduate,Data Science,Python Intern,LinkedIn,Yes,Pending,Pending,Pending,Pending,Pending
+APP116,C116,Graduate,Mathematics,Data Analyst Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP117,C117,Postgraduate,Computer Applications,Power BI Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP118,C118,Postgraduate,Computer Applications,Data Analyst Intern,Naukri,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP119,C119,Graduate,Data Science,Data Analyst Intern,LinkedIn,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP120,C120,Graduate,Computer Science,Data Science Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP121,C121,Postgraduate,Data Science,Data Science Intern,Naukri,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP122,C122,Graduate,Computer Applications,Data Analyst Intern,LinkedIn,Yes,Completed,Selected,Selected,Selected,Pending
+APP123,C123,Postgraduate,Data Science,Python Intern,Website,Yes,Pending,Pending,Pending,Pending,Pending
+APP124,C124,Postgraduate,Mathematics,Power BI Intern,Referral,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP125,C125,Graduate,Data Science,Data Science Intern,Website,Yes,Pending,Pending,Pending,Pending,Pending
+APP126,C126,Postgraduate,Statistics,Power BI Intern,Referral,Yes,Completed,Selected,Selected,Pending,Pending
+APP127,C127,Postgraduate,Computer Science,Power BI Intern,Naukri,Yes,Completed,Selected,Pending,Pending,Pending
+APP128,C128,Postgraduate,Mathematics,Python Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP129,C129,Graduate,Statistics,Power BI Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP130,C130,Postgraduate,Mathematics,Python Intern,Instagram,Yes,Completed,Pending,Pending,Pending,Pending
+APP131,C131,Postgraduate,Data Science,Python Intern,LinkedIn,Yes,Completed,Selected,Selected,Selected,Pending
+APP132,C132,Graduate,Computer Applications,Data Analyst Intern,Instagram,Yes,Completed,Selected,Selected,Pending,Pending
+APP133,C133,Graduate,Data Science,Power BI Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP134,C134,Graduate,Statistics,Power BI Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP135,C135,Graduate,Mathematics,Data Science Intern,Website,Yes,Completed,Selected,Selected,Selected,Joined
+APP136,C136,Graduate,Mathematics,Data Science Intern,Indeed,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP137,C137,Graduate,Data Science,Power BI Intern,LinkedIn,Yes,Completed,Selected,Selected,Selected,Joined
+APP138,C138,Postgraduate,Data Science,Python Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP139,C139,Graduate,Mathematics,Python Intern,Naukri,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP140,C140,Postgraduate,Computer Applications,Data Analyst Intern,Website,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP141,C141,Graduate,Statistics,Python Intern,Indeed,Yes,Completed,Selected,Selected,Selected,Pending
+APP142,C142,Graduate,Statistics,Data Science Intern,Naukri,Yes,Pending,Pending,Pending,Pending,Pending
+APP143,C143,Graduate,Data Science,Python Intern,Instagram,Yes,Completed,Selected,Pending,Pending,Pending
+APP144,C144,Postgraduate,Mathematics,Data Analyst Intern,Indeed,Yes,Pending,Pending,Pending,Pending,Pending
+APP145,C145,Postgraduate,Data Science,Data Science Intern,Naukri,Yes,Completed,Pending,Pending,Pending,Pending
+APP146,C146,Postgraduate,Statistics,Power BI Intern,Naukri,Yes,Pending,Pending,Pending,Pending,Pending
+APP147,C147,Graduate,Data Science,Data Analyst Intern,LinkedIn,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP148,C148,Graduate,Mathematics,Power BI Intern,LinkedIn,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP149,C149,Postgraduate,Computer Applications,Data Science Intern,Naukri,No,Rejected,Rejected,Rejected,Rejected,Rejected
+APP150,C150,Postgraduate,Data Science,Python Intern,LinkedIn,No,Rejected,Rejected,Rejected,Rejected,Rejected
